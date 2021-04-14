@@ -1,7 +1,9 @@
 # aecworks
 
-  [aec.works](https://aec.works)
-  [project scratchpad](https://www.notion.so/gtalarico/aec-works-cb05901f2a9847ddbdcc118a4c5e4df6)
+![logo](https://aec.works/img/logo-black.10fa9bc4.svg)
+
+* [aec.works](https://aec.works)
+* [project scratchpad](https://www.notion.so/gtalarico/aec-works-cb05901f2a9847ddbdcc118a4c5e4df6)
 
 ### About
 aec.works is curated list of kick-ass product-oriented aec companies and startups. 
