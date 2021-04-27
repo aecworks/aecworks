@@ -2,7 +2,7 @@
 description: Guideline for Curating Content
 ---
 
-# Content Quality
+# 2. Content Quality
 
 **aec.works** it is not intended to be a comprehensive list of every AEC company – rather, it is a selected list of companies our editors consider fresh and exciting.
 

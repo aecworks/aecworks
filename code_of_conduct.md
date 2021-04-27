@@ -2,7 +2,7 @@
 description: Contributor Covenant Code of Conduct
 ---
 
-# Code of Conduct
+# 1. Code of Conduct
 
 ## Our Pledge
 
