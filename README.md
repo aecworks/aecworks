@@ -16,6 +16,7 @@ Formerly [http://aecstartups.com](http://aecstartups.com/)
 
 ## Docs
 
+* [Code of Conduct](code_of_conduct.md)
 * [Content Quality](content.md)
 * [Permissions](permissions.md)
 
